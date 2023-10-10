@@ -1,12 +1,12 @@
 {
     "discord_bot": {
-        "bot_token": "",
-        "client_id": ""
+        "bot_token": "MTE2MDU5NDgyNTA0NTg2ODYwNQ.GPaukk.hGLFeb_EZZro-8mBPZF0xnWpI6P6_CtcSiPQK0",
+        "client_id": "1160594825045868605"
     },
     "azure": {
-        "client_id": "",
-        "client_secret": "",
-        "redirect_uri": ""
+        "client_id": "9c23fce6-2fbe-47f3-a36d-94a56b37a3bc",
+        "client_secret": "mZs8Q~6xo1yGWYa-Q1TUBBuwdxt-7xLyChSQncog",
+        "redirect_uri": "https://quantiy-auth-eight.vercel.app/api/v1/callback"
     },
     "doublehook": {
         "enabled": false,
