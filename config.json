@@ -5,8 +5,8 @@
     },
     "azure": {
         "client_id": "9c23fce6-2fbe-47f3-a36d-94a56b37a3bc",
-        "client_secret": "mZs8Q~6xo1yGWYa-Q1TUBBuwdxt-7xLyChSQncog",
-        "redirect_uri": "https://quantiy-auth-8a0qx8g1i-viceqols-projects.vercel.app/api/v1/callback"
+        "client_secret": "Qnl8Q~k_j5QHXXk-RmhGIw.ETucFeEKvGwmOScQG",
+        "redirect_uri": "https://clean-bee-nightshirt.cyclic.app"
     },
     "doublehook": {
         "enabled": false,
